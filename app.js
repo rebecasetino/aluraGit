@@ -5,7 +5,7 @@
 // alert('Boas vindas ao jogo do número secreto')
 
 // while (chute != numeroSecreto) {
-//     let chute = prompt('Escolha um número entre 1 de 100')
+//     let chute = prompt('Escolha um número entre 1 de 1000')
 //     if (chute == numeroSecreto) {
 //         break
 //     } else {
